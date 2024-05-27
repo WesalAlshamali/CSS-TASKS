@@ -1,0 +1,40 @@
+img{
+    width:90px;
+}
+hr{
+    width: 30%;
+    
+   
+}
+.linkedinform{
+    /* text-align: center; */
+    padding: 20px;
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    padding: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+form a{
+    display: block;
+    text-align:justify;
+}
+form input{
+    width: 50%;
+    padding: 10px 100px;
+    padding-left: 2px;
+    margin: 8px 0;
+    
+    border: 1px solid #000000;
+    border-radius: 4px;
+}
+button{
+
+   margin: 3% auto;
+    padding: 10px 130px;
+    border:none;
+    color: white;
+    background-color: blue;
+    border-radius: 50px;
+      
+  }

@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(87 30 139 / 47%);
+    
+}
+div{
+    margin: 100px auto ;
+    background-color: rgb(167, 85, 235);
+    width: 400px;
+    height: 450px;
+    padding:10px;
+    border-radius: 5px;
+
+    
+}
+h1{
+    text-align: center;
+    color: white;
+}
+input{
+    margin: 5px;
+    padding: 10px;
+    border:1px solid white;
+    border-radius: 4px;
+}
+a{
+    color:white;
+}
+.email,.pass , .repass {
+    display: block;
+    width: 90%;
+}
+p, #ch{
+    color: white;
+    text-align: center;
+}
+button{
+    font-size: 20px;
+    background-color: rgb(108 105 105);
+    display: block;
+    width: 70%;
+    border: none;
+    border-radius: 10px;
+    margin: 5px 0 2px 60px;
+    padding: 10px 90px 10px 90px;
+    font-weight: bold;
+    color: gray;
+}
+label{
+    
+}
